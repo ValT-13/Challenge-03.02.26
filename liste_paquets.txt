@@ -1,0 +1,6 @@
+htop
+curl
+git
+neofetch
+paquet_imaginaire_qui_nexiste_pas
+vim

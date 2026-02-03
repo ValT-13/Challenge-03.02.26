@@ -1,0 +1,26 @@
+=== 1. UTILISATION DES PARTITIONS ===
+Partitions utilisées à plus de 10% affichées en ROUGE.
+-----------------------------------------------------------
+Sys. de fichiers Taille Utilisé Dispo Uti% Monté sur
+udev               1,9G       0  1,9G   0% /dev
+tmpfs              389M    1,4M  388M   1% /run
+/dev/sda1           30G    5,5G   23G  20% /
+tmpfs              1,9G     12K  1,9G   1% /dev/shm
+tmpfs              5,0M    8,0K  5,0M   1% /run/lock
+tmpfs              1,0M       0  1,0M   0% /run/credentials/systemd-journald.service
+tmpfs              1,9G     20K  1,9G   1% /tmp
+tmpfs              389M     96K  389M   1% /run/user/1000
+
+=== 2. TOP 10 DES DOSSIERS DANS /HOME ===
+Recherche des plus gros consommateurs...
+-----------------------------------------------------------
+28M	/home/val/.cache
+28M	/home/val
+28M	/home
+14M	/home/val/.cache/tracker3/files
+14M	/home/val/.cache/tracker3
+11M	/home/val/.cache/gnome-software
+7,3M	/home/val/.cache/gnome-software/appstream
+2,4M	/home/val/.cache/gnome-software/odrs
+2,3M	/home/val/.cache/mesa_shader_cache_db
+1,4M	/home/val/.cache/gstreamer-1.0

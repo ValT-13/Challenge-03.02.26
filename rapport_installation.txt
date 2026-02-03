@@ -1,0 +1,7 @@
+--- RAPPORT D'INSTALLATION (mar. 03 févr. 2026 16:26:34 CET) ---
+[OK] htop installé avec succès
+[DÉJÀ LÀ] curl
+[OK] git installé avec succès
+[ERREUR] Impossible d'installer neofetch
+[ERREUR] Impossible d'installer paquet_imaginaire_qui_nexiste_pas
+[OK] vim installé avec succès

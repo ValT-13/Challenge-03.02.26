@@ -1,0 +1,7 @@
+--- RAPPORT RÉSEAU DU mar. 03 févr. 2026 15:32:44 CET ---
+[OK] google.com : Réponse en 17.012ms -> \033[0;32m🚀 EXCELLENT\033[0m
+[OK] 1.1.1.1 : Réponse en 16.200ms -> \033[0;32m🚀 EXCELLENT\033[0m
+[OK] github.com : Réponse en 30.197ms -> \033[0;32m🚀 EXCELLENT\033[0m
+[OK] stackoverflow.com : Réponse en 17.350ms -> \033[0;32m🚀 EXCELLENT\033[0m
+[KO] bad.server.test : Inaccessible
+Résumé : 4/5 accessibles | 1/5 échecs
